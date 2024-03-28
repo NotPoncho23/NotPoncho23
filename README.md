@@ -8,7 +8,7 @@
 name = "Gildardo Tello Alvarez"
 age = 23
 nationality = "Mexican"
-languages = ["Spanish: native", "English:B1"]
+languages = ["Spanish: native", "English: B1"]
 occupation = "Student"
 school = "TecNM Campus Ciudad Hidalgo"
 hobbies = ["Soccer", "Videogames", "Listen music"]
