@@ -23,8 +23,10 @@ hobbies = ["Soccer", "Videogames", "Listen music"]
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notponcho23&show_icons=true&theme=dracula&locale=en&rank_icon=github" alt="notponcho23" height="180"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notponcho23&show_icons=true&theme=dracula&locale=en&layout=compact" alt="notponcho23" height="180"/></p>
+<p align="center">
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notponcho23&show_icons=true&theme=dracula&locale=en&rank_icon=github" alt="notponcho23" height="180"/>
+</p>
 
 <h3 align="center">Frontend and design</h3>
 <p align="center">
